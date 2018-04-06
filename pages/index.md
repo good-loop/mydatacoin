@@ -9,11 +9,11 @@ The internet has become a worrying place,
 where companies covertly spy on your private business,
 and sell your personal data.
 
-My-Loop is a better way: we replace 
+My-Data is a better way: we replace 
 covert surveillance with honest partnership, 
 making user-control an asset not an inconvenience.
 
-My-Loop provides transparency and an ethical approach 
+My-Data provides transparency and an ethical approach 
 to using profiling and customer data in 
 advertising, marketing, and sales.
 
