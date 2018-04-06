@@ -31,6 +31,8 @@ advertising, marketing, and sales.
 
 ## Partners
 
+## Media about My-Data and Good-Loop
+
 ## FAQ
 
 
