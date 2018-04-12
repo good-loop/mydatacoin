@@ -1,7 +1,7 @@
 banner1: MyData: Your Data, Under Your Control.
 banner2: A safe and ethical data collection, management, and monetisation tool
 
-## Our 20/20 Vision
+## Our Vision
 
 <div class="col-md-7 col-sm-7">
 
