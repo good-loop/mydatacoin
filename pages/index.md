@@ -27,6 +27,7 @@ advertising, marketing, and sales.
 
  - GDPR compliance, without hassle or fear.
  - Individuals and companies can safely monetise their data.
+ - Handles real-world data -- noisy, uncertain, out-of-date -- using probability AI and multiple version control.
 
 ## Roadmap
 
