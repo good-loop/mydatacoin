@@ -25,6 +25,8 @@ advertising, marketing, and sales.
 
 ## Features
 
+ - GDPR compliance, without hassle or fear.
+
 ## Roadmap
 
 ## Team
