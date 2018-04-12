@@ -26,6 +26,7 @@ advertising, marketing, and sales.
 ## Features
 
  - GDPR compliance, without hassle or fear.
+ - Individuals and companies can safely monetise their data.
 
 ## Roadmap
 
