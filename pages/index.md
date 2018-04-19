@@ -31,9 +31,27 @@ advertising, marketing, and sales.
 
 ## Roadmap
 
+Milestone 1
+
+Milestone 2
+
+Milestone 3
+
 ## Team
 
+Individual 1
+
+Individual 2
+
+Individual 3
+
 ## Partners
+
+Company 1
+
+Company 2
+
+Company 3
 
 ## Media about My-Data and Good-Loop
 
