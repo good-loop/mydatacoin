@@ -31,7 +31,7 @@ advertising, marketing, and sales.
 
 ## Roadmap
 
-Milestone 1
+Milestone 1: GDPR User-rights tool
 
 Milestone 2
 
